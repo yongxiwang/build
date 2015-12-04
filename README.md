@@ -42,4 +42,4 @@
 
 -------------
 
-![](img/build.png)
+![](img/build.jpg)
